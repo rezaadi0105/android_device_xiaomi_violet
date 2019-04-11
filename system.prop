@@ -1,0 +1,9 @@
+ro.product.brand=xiaomi
+ro.product.name=violet
+ro.product.device=violet
+ro.product.mod_device=violet_global
+ro.build.product=violet
+ro.treble.enabled=true
+sys.usb.controller=a800000.dwc3
+sys.usb.rndis.func.name=rndis_bam
+sys.usb.rmnet.func.name=rmnet_bam
